@@ -13,7 +13,7 @@ A missão é mergulhar no futuro e apresentar como essas tecnologias estão tran
 2. **Avatares e Voz Sintetizada**: Com a D-ID, gerei avatares de IA que representam diferentes personagens. Sua voz sintetizada dá vida a esses avatares.
 
 ## 🚀 Resultados
-O vídeo foi criado usando as uma imagem, um texto(scritp) e um ádio com voz “[inputs](/inputs/)”. E como resultado de “[output](/output/)”, foi gerado um vídeo dando "vida" a um avatar futurista.
+O vídeo foi criado usando as uma imagem, um texto(scritp) e um áudio com voz “[inputs](/inputs/)”. E como resultado de “[output](/outputs/)”, foi gerado um vídeo dando "vida" a um avatar futurista.
 
 ## 💭 Reflexão
 Criar algo com IA é um desafio emocionante. A busca pela perfeição e pela sensação humana é constante, mas também nos leva a explorar novas fronteiras criativas.\
